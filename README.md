@@ -55,3 +55,5 @@ End if
 {"tl", "tl_XX"}, {"uk", "uk_UA"}, {"ur", "ur_PK"}, {"xh", "xh_ZA"},
 {"gl", "gl_ES"}, {"ms", "ms_MY"}
 ```
+
+https://miyako.github.io/CTranslate2/translate
